@@ -8,6 +8,8 @@ many repeating frequent letters are not the only ones chosen).
 
 Running the program on the entire wordle word bank (12972 words) yields 11090 wins (85.49%). For the games won, the program averages a score of 4.42. The execution time is 16288 seconds or 4.52 hours (that's a long time... I definitely should try to improve the efficiceny). Those statistics would put me around 300th place on the Wordle programs leaderboard (https://freshman.dev/wordle/#/leaderboard).
 
+![alt text](https://cdn.discordapp.com/attachments/975043937666490400/985247438371700816/unknown.png)
+
 How to run:
 1. Complie with GNU (I use the flags: -std=c++17 -Wall -Wextra -g -pedantic -Weffc++)
 2. Run Driver.cpp
